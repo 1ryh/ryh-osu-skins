@@ -1,5 +1,5 @@
 # ryh-osu-skins
-Ryh's osu skins, will update over time.
+ryh's osu skins, will update over time.
 # [- limerence v0.1](https://download1580.mediafire.com/ji1t479dubug/b8k21c8njtphkl5/-+%E2%8C%9E+limerence+v0.1++%E2%86%93%E2%8C%9D+BTMC.osk)
 ![](https://osu.ppy.sh/ss/17264122/690f)
 # [- Yip 2.0 NM 0](https://download850.mediafire.com/ekjg7dppwezg/bqgp01l8ccta1hd/-++++Yip+2.0+NM++++-.osk)
