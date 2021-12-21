@@ -1,5 +1,7 @@
 # ryh-osu-skins
-ryh's osu skins, will update over time.
+ryh's osu skins, will update over time
+# [tekkito shield edit](https://www.mediafire.com/file/6dzywcd73ag2uv8/shield_tekkito_edit.osk/file)
+![](https://osu.ppy.sh/ss/17377802/197a)
 # [andros edit](https://www.mediafire.com/file/srgiwip7fx45ns8/andros_edit.osk/file)
 ![](https://osu.ppy.sh/ss/17298190/48d2)
 # [aireu](https://download1077.mediafire.com/zd3dkld31bpg/iupygth7pugv8zi/aireu+aristia.osk)
