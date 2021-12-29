@@ -1,5 +1,7 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time
+# [mathi boop](https://www.mediafire.com/file/uhko958cpdpuj90/mathi+boop.osk/file)
+![](https://osu.ppy.sh/ss/17401681/fe20)
 # [tekkito shield edit](https://www.mediafire.com/file/6dzywcd73ag2uv8/shield_tekkito_edit.osk/file)
 ![](https://osu.ppy.sh/ss/17377802/197a)
 # [andros edit](https://www.mediafire.com/file/srgiwip7fx45ns8/andros_edit.osk/file)
