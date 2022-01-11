@@ -1,5 +1,7 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time
+# [aireu (saiyo)](https://www.mediafire.com/file/vk4lvgzrl3h9ho8/Aristia(Edit)+saiyo.osk/file)
+![](https://osu.gatari.pw/ss/9STMOBGM.jpg)
 # [mathi boop](https://www.mediafire.com/file/uhko958cpdpuj90/mathi+boop.osk/file)
 ![](https://osu.ppy.sh/ss/17401681/fe20)
 # [tekkito shield edit](https://www.mediafire.com/file/6dzywcd73ag2uv8/shield_tekkito_edit.osk/file)
