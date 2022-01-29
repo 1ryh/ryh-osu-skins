@@ -1,5 +1,7 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time
+# [fedoragoose](https://ryh.s-ul.eu/Ds4fItzd)
+![](https://osu.ppy.sh/ss/17503438/87a6)
 # [MonkoVax](https://ryh.s-ul.eu/sEKkJRK3)
 ![](https://osu.ppy.sh/ss/17503419/38eb)
 # [Aesthetic 1.3.16 Solo](https://axa.s-ul.eu/NwoMJBVt)
