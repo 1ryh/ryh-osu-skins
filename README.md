@@ -2,6 +2,8 @@
 ryh's osu skins, will update over time
 # [Aesthetic 1.3.16 Solo](https://axa.s-ul.eu/NwoMJBVt)
 ![](https://osu.ppy.sh/ss/17503407/86ed)
+# [zylice colors](https://ryh.s-ul.eu/7EM27RdP)
+![](https://osu.ppy.sh/ss/17616291/f23a)
 # [fedoragoose](https://ryh.s-ul.eu/Ds4fItzd)
 ![](https://osu.ppy.sh/ss/17503438/87a6)
 # [- Yip 2.0 NM 0](https://www.mediafire.com/file/bqgp01l8ccta1hd/-_Yip_2.0_NM_-.osk/file)
