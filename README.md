@@ -2,6 +2,8 @@
 ryh's osu skins, will update over time
 # [BubbleSkin William](https://ryh.s-ul.eu/zI9ALd6E)
 ![](https://osu.ppy.sh/ss/17624899/09dd)
+# [Vaxei CK Edit](https://ryh.s-ul.eu/xvweDOyv)
+![](https://osu.ppy.sh/ss/17624919/3a56)
 # [Aesthetic 1.3.16 Solo](https://axa.s-ul.eu/NwoMJBVt)
 ![](https://osu.ppy.sh/ss/17503407/86ed)
 # [zylice colors](https://ryh.s-ul.eu/7EM27RdP)
