@@ -1,5 +1,15 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time
+# [KamuiFang](https://ryh.s-ul.eu/Gx0y1knn)
+![](https://osu.ppy.sh/ss/17732237/7444)
+# [Jemzee](https://ryh.s-ul.eu/X2NXl6Xv)
+![](https://osu.ppy.sh/ss/17732240/020e)
+# [reedkatt but good](https://ryh.s-ul.eu/g5OFypNb)
+![](https://osu.ppy.sh/ss/17732243/969a)
+# [Ninomae Ina'nis](https://ryh.s-ul.eu/ZLAlhu3F)
+![](https://osu.ppy.sh/ss/17732249/93f0)
+# [delis bunny galaxy](https://ryh.s-ul.eu/f5nZ7eV9)
+![](https://osu.ppy.sh/ss/17732253/6bb1)
 # [- Yip 2.0 NM 0](https://www.mediafire.com/file/bqgp01l8ccta1hd/-_Yip_2.0_NM_-.osk/file)
 ![](https://osu.ppy.sh/ss/17264182/124d)
 # [Vaxei CK Edit](https://ryh.s-ul.eu/xvweDOyv)
