@@ -1,5 +1,7 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time
+# [Surely One Day](https://ryh.s-ul.eu/Yttq8MEQ)
+![](https://osu.ppy.sh/ss/17844589/ce98)
 # [reedkatt but good](https://ryh.s-ul.eu/g5OFypNb)
 ![](https://osu.ppy.sh/ss/17732243/969a)
 # [Ninomae Ina'nis](https://ryh.s-ul.eu/ZLAlhu3F)
