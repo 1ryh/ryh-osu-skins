@@ -4,7 +4,7 @@ ryh's osu skins, will update over time
 ![](https://osu.ppy.sh/ss/17904509/8a83)
 # [sakura](https://ryh.s-ul.eu/1XlCgGGE)
 ![](https://osu.ppy.sh/ss/17904539/03e4)
-# [Seoul](https://ryh.s-ul.eu/47P55Y4o)
+# [seoul](https://ryh.s-ul.eu/47P55Y4o)
 ![](https://osu.ppy.sh/ss/17904457/55e1)
 # [Surely One Day](https://ryh.s-ul.eu/Yttq8MEQ)
 ![](https://osu.ppy.sh/ss/17844589/ce98)
