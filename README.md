@@ -1,5 +1,7 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time
+# [taro aug 2022](https://ryh.s-ul.eu/A6FtZeyi)
+![](https://osu.ppy.sh/ss/18067959/ab86)
 # [prodigy](https://ryh.s-ul.eu/CwyJqZCM)
 ![](https://osu.ppy.sh/ss/17913985/2473)
 # [zzz](https://ryh.s-ul.eu/NypvEUwn)
