@@ -1,7 +1,7 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time
-# [taro aug 2022](https://ryh.s-ul.eu/A6FtZeyi)
-![](https://osu.ppy.sh/ss/18067959/ab86)
+# [aristekk](https://ryh.s-ul.eu/pIDUr2Xb)
+![](https://osu.ppy.sh/ss/18184585/840d)
 # [prodigy](https://ryh.s-ul.eu/CwyJqZCM)
 ![](https://osu.ppy.sh/ss/17913985/2473)
 # [zzz](https://ryh.s-ul.eu/NypvEUwn)
@@ -12,6 +12,8 @@ ryh's osu skins, will update over time
 ![](https://osu.ppy.sh/ss/17904457/55e1)
 # [Surely One Day](https://ryh.s-ul.eu/Yttq8MEQ)
 ![](https://osu.ppy.sh/ss/17844589/ce98)
+# [taro aug 2022](https://ryh.s-ul.eu/A6FtZeyi)
+![](https://osu.ppy.sh/ss/18067959/ab86)
 # [tekkito edit](https://ryh.s-ul.eu/H5H84gLk)
 ![](https://osu.ppy.sh/ss/17904546/aa2c)
 # [Ninomae Ina'nis](https://ryh.s-ul.eu/ZLAlhu3F)
