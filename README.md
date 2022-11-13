@@ -11,7 +11,7 @@ ryh's osu skins, will update over time
 # [seoul](https://ryh.s-ul.eu/47P55Y4o)
 ![](https://osu.ppy.sh/ss/17904457/55e1)
 # [Surely One Day](https://ryh.s-ul.eu/ZxZTANqF)
-![](https://osu.ppy.sh/ss/17844589/ce98)
+![](https://osu.ppy.sh/ss/18251504/f1b6)
 # [taro aug 2022](https://ryh.s-ul.eu/A6FtZeyi)
 ![](https://osu.ppy.sh/ss/18067959/ab86)
 # [tekkito edit](https://ryh.s-ul.eu/H5H84gLk)
