@@ -1,9 +1,9 @@
 # ryh-osu-skins
 ryh's osu skins, will update over time (I do not own any of the elements found in these skins).
 # [summer pockets (pink)](https://xek.s-ul.eu/UZ50BUQu)
-![](https://osu.ppy.sh/ss/19571668/ef46)
+![](https://xek.s-ul.eu/kEsO85Vu)
 # [summer pockets (blue)](https://xek.s-ul.eu/nXaE3jn5)
-![](https://osu.ppy.sh/ss/19571674/f44d)
+![](https://xek.s-ul.eu/3clJzsE1)
 # [boblow edit](https://ryh.s-ul.eu/JWcJHMn1)
 ![](https://osu.ppy.sh/ss/18439335/3d3f)
 # [another rafis edit](https://ryh.s-ul.eu/8LMVvBU4)
